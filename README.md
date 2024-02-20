@@ -57,23 +57,6 @@ $ npm start
 - [Webpack](https://webpack.js.org/)
 
 
-### Code Formatter
+### Screenshot
 
-- Add a `.vscode` directory
-- Create a file `settings.json` inside `.vscode`
-- Install Prettier - Code formatter in VSCode
-- Add the following snippet:  
-
-```json
-
-    {
-      "editor.formatOnSave": true,
-      "prettier.singleQuote": true,
-      "prettier.arrowParens": "avoid",
-      "prettier.jsxSingleQuote": true,
-      "prettier.trailingComma": "none",
-      "javascript.preferences.quoteStyle": "single",
-    }
-
-```
-
+![themeforest net_item_hermes-ecommerce-psd-template_screenshots_14548028_index=3](https://github.com/super0618/HermesStore/assets/149831262/f6a2ab69-e6bf-4b8f-bc18-a1c78ceee343)
