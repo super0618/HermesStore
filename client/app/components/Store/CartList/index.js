@@ -23,8 +23,6 @@ const CartList = props => {
       {cartItems.map((item, index) => (
         <div key={index} className='item-box'>
           <div className='item-details'>
-            <Container>
-              <Row className='mb-2 align-items-center'>
                 <Col xs='10' className='pr-0'>
                   <div className='d-flex align-items-center'>
                     <img
@@ -72,8 +70,6 @@ const CartList = props => {
                 <Col xs='3' className='text-right'>
                   <p className='value quantity'>{` ${item.quantity}`}</p>
                 </Col>
-              </Row>
-            </Container>
           </div>
         </div>
       ))}
